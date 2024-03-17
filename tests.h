@@ -1,10 +1,4 @@
-//
-//  tests.h
-//  SubmatrixQueries
-//
-//  Created by Raphael Bost on 08/02/13.
-//  Copyright (c) 2013 Raphael Bost. All rights reserved.
-//
+
 
 #ifndef __SubmatrixQueries__tests__
 #define __SubmatrixQueries__tests__

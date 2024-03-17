@@ -1,10 +1,4 @@
-//
-//  oracle_monge_matrix.h
-//  SubmatrixQueries
-//
-//  Created by Raphael Bost on 03/04/13.
-//  Copyright (c) 2013 Raphael Bost. All rights reserved.
-//
+
 
 #ifndef __SubmatrixQueries__oracle_monge_matrix__
 #define __SubmatrixQueries__oracle_monge_matrix__

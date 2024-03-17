@@ -1,10 +1,4 @@
-//
-//  enveloppe_tree.h
-//  SubmatrixQueries
-//
-//  Created by Raphael Bost on 08/01/13.
-//  Copyright (c) 2013 Raphael Bost. All rights reserved.
-//
+
 
 #ifndef __SubmatrixQueries__envelope_tree__
 #define __SubmatrixQueries__envelope_tree__
